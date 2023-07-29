@@ -25,6 +25,8 @@ module.exports = {
     "@typescript-eslint/no-non-null-assertion": "off",
     "@typescript-eslint/no-unsafe-assignment": "warn",
     "@typescript-eslint/no-unsafe-member-access": "warn",
+    "@typescript-eslint/no-unsafe-assignment" : "warn",
+    "@typescript-eslint/no-unsafe-call" : "warn",
     "@typescript-eslint/require-await": "warn",
     "@typescript-eslint/no-unsafe-argument": "warn",
     "@typescript-eslint/ban-ts-comment": "warn",
